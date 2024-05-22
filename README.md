@@ -1,6 +1,12 @@
+
+
 # PDF Form Filler - Taxes
-![Preview](cover.png)
 This project automates the process of filling out PDF forms using data from an Excel spreadsheet. The script reads data from an Excel file, processes it, and fills a PDF form with the relevant information.
+
+
+<div align="center">
+    <img src="cover.png" alt="Preview" width="400px">
+</div>
 
 ## Prerequisites
 
